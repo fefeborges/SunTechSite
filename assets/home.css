@@ -1,0 +1,98 @@
+html, nav, div, a {
+    margin: 0;
+}
+body {
+    background-color: #F1EFE7 !important;
+    font-family: math !important;
+    font-size: 18px;
+}
+.header-banner {
+    width: 85%;
+    margin: 0 auto;
+}
+.imagem2 {
+    width: 260px;
+    height: 200px;
+    margin: 0 auto;
+}
+.imagem2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+}
+.item {
+    width: 100%;
+    height: 500px;
+    
+}
+.header-banner img {
+    width: 100%;
+    height: 100% !important;
+    object-fit: cover !important;
+}
+.placas {
+    height: 300px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 300px;
+}
+.texto span{
+    background-color: #F8C728;
+    padding: 12px;
+    font-size: 24px;
+}
+.texto {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+.caixaplaca{
+    border-radius: 15px;
+    width: 200px;
+    height: 250px   ;
+    background-color: #263470;
+    position: relative;
+}
+.azul{
+    position: absolute;
+    top: -100px;
+}
+.caixaplacatexto{
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    text-align: center;
+    align-items: center;
+}
+.circulo {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    overflow: hidden;
+}
+.circulo1 {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    
+}
+.circulo2 {
+    left: 30px;
+    object-fit: cover;
+    width: 63%;
+    height: 100%;
+    object-fit: contain;  
+}
+.circulo3 {
+    left: 30px;
+    object-fit: cover;
+    width: 60%;
+    height: 100%;  
+}
+.box1 {
+    display: flex;
+    column-gap: 70px;
+    justify-content: center;
+    margin-top: 70px;
+}

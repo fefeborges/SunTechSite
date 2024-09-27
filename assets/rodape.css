@@ -1,0 +1,66 @@
+.rodape {
+    font-size: 12px;
+    height: 350px;
+    width: 100%;
+    background-color: #263470;
+}
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 105px;
+    margin-top: 10px;
+    padding-top: 20px;  
+}
+.itens {
+    margin-top: 15px;
+    display: flex;
+    color: white;
+    font-size: 15px;
+
+}
+.itens4 {
+    margin-top: 20px;
+    display: flex;
+    color: white;
+    font-size: 15px;
+}
+.itens2 {
+    margin-top: 30px;
+    display: flex;
+    color: #F8C728;
+}
+.solrodape { 
+    display: flex;
+    color: #F8C728;  
+}
+.politicapriv {
+    color: white;
+    display: block;
+    justify-content: center;
+    width: 90%;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+i {
+    font-size: 25px;
+    margin-left: 10px;
+    padding-right: 15px;
+    color: #000000;
+}
+.imagemrodape{
+    width: 100px;
+    position: absolute;
+    left: 550px;   
+}
+.box2{
+    width: 50%;
+    position: relative; 
+}
+.box22{
+    width: 50%;   
+}
+.box221{
+    margin-left: 500px;  
+}
